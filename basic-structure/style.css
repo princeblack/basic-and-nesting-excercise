@@ -1,0 +1,19 @@
+h3{
+    color: blue;
+    font-size: 15px;
+}
+.redcolor{
+    color: darkgoldenrod;
+}
+.itemcolor{
+    color: red;
+}
+[title~=flower]{
+    border: solid;
+}
+[title~=commit]{
+    background-color: yellow;
+}
+#unline {
+    text-decoration: underline;
+}
